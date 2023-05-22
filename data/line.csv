@@ -1,5 +1,5 @@
 date,exp,factor,value,upper-ci,lower-ci
-2021-01-01,my t-test,x,10,15,10
+2021-01-01,my t-test,x,10,15,5
 2021-01-02,my t-test,x,9,13,7
 2021-01-03,my t-test,x,9,13,7
 2021-01-04,my t-test,x,9,13,7
